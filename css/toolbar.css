@@ -1,0 +1,56 @@
+
+.toolbar-item {
+  display: block;
+  width: 200px;
+  height: 56px;
+  background-repeat: no-repeat;
+  margin-top: 1px; }
+
+.toolbar-item-one {
+  background-image: url(/img/icon-1.png);
+  position: fixed;
+  right: -155px;
+  bottom: 224px;
+}
+.toolbar-item-one:hover{
+  right: 0px;
+  bottom: 224px;
+}
+
+.toolbar-item-two {
+  background-image: url(/img/icon-2.png);
+  position: fixed;
+  right: -155px;
+  bottom: 168px;
+}
+
+.toolbar-item-two:hover {
+  right: 0px;
+  bottom: 168px;
+}
+
+.toolbar-item-three {
+  background-image: url(/img/icon-3.png);
+  position: fixed;
+  right: -155px;
+  bottom: 112px;
+}
+.toolbar-item-three:hover {
+  right: 0px;
+  bottom: 112px;
+}
+
+
+.toolbar-item-four {
+  background-image: url(/img/icon-4.png);
+  position: fixed;
+  right: -155px;
+  bottom: 56px;
+}
+.toolbar-item-four:hover {
+  right: 0px;
+  bottom: 56px;
+}
+
+
+/*# sourceMappingURL=toolbar.css.map */

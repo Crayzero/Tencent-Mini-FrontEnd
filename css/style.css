@@ -1,0 +1,44 @@
+
+body{
+		margin-top:0px;
+		margin-bottom:0px;
+		margin-left:0px;
+		margin-right:0px;
+	}
+.title{
+	background-color:rgb(6, 217, 149);
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	height:50px;
+	}
+#map{
+	height:550px;
+	float:left;
+}
+#bar{
+	height:550px;
+	float:right;
+}
+#line{
+	margin:0px auto;
+}
+#map2{
+	float:left;
+}
+#pie1{
+    float:right;
+    margin-top: 50px;
+	top:100px;
+	right: 0px;
+}
+
+#new_result {
+    position: fixed;
+    width: 30%;
+    top: 5px;
+    margin: 0 30%;
+    padding-bottom: 5px;
+    display: none;
+}
